@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Kevins's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinlo123&show_icons=true)](https://github.com/kevinlo123/github-readme-stats)
+[![Kevins's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevinlo123&show_icons=true&count_private=true)](https://github.com/kevinlo123/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinlo123&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
